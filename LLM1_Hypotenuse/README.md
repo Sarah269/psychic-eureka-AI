@@ -1,7 +1,7 @@
 # LLM 1 - Hypotenuse
 
 ## Project 
-This project interacts with Ollama LLM using Langchain. The model is provided with the values for two sides of a triangle, a and b.  The model is asked to return the value for the hypotenuse of a right-angled triangle, side c.
+This project interacts with Ollama LLM using Langchain iwthin a Colab notebook. The model is provided with the values for two sides of a triangle, a and b.  The model is asked to return the value for the hypotenuse of a right-angled triangle, side c.
 
 ## Tools
 - Colab

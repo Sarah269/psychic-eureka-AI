@@ -1,7 +1,7 @@
 # LLM 2 - Seasonings
 
 ## Project 
-This project interacts with Ollama LLM using Langchain. The model is asked to provide recipes for spice mixes. 
+This project interacts with Ollama LLM using Langchain within a Colab notebook. The model is asked to provide recipes for spice mixes. 
 
 ## Tools
 - Colab
@@ -18,3 +18,15 @@ This project interacts with Ollama LLM using Langchain. The model is asked to pr
 - Provide LLM with a request
 
 ## Ollama LLM Requests
+
+### Cajon Seasoning Recipe
+
+<img src="https://github.com/Sarah269/psychic-eureka-AI/blob/main/LLM2_Seasoning/LLM2_Seasonings1.png" height=400>
+
+### Creole Seasoning Recipe
+
+<img src="https://github.com/Sarah269/psychic-eureka-AI/blob/main/LLM2_Seasoning/LLM2_Seasonings2.png" hieght=400>
+
+### Creole Seasoning Usage Suggestions
+
+<img src="https://github.com/Sarah269/psychic-eureka-AI/blob/main/LLM2_Seasoning/LLM2_Seasonings3.png" hieght=400>

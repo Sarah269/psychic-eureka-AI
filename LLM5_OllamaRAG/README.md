@@ -37,4 +37,12 @@ The objective of this project is to develop a Retrieval-Augmented Generation (RA
 - Create Index
 - Test RAG LLM
 
+# RAG Queries
 
+<img src="https://github.com/Sarah269/psychic-eureka-AI/blob/main/LLM5_OllamaRAG/OllamaRAG_1.png" height=300>
+
+<img src="https://github.com/Sarah269/psychic-eureka-AI/blob/main/LLM5_OllamaRAG/OllamaRAG_2.png" height=300>
+
+<img src="https://github.com/Sarah269/psychic-eureka-AI/blob/main/LLM5_OllamaRAG/OllamaRAG_3.png" height=300>
+
+<img src="https://github.com/Sarah269/psychic-eureka-AI/blob/main/LLM5_OllamaRAG/OllamaRAG_4.png" height=300>

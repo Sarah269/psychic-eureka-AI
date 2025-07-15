@@ -10,6 +10,7 @@ The objective of this project is to develop a Retrieval-Augmented Generation (RA
 - Build a chatbot with customer data sources, powered by Llamaindex, Caroline Frasca, Krista Muir, and Yi Ding
 
 ## Tools
+- colab
 - llama-index-llms-ollama
 - llama-index
 - llama-index-reader-web

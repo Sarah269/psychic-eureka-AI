@@ -1,7 +1,7 @@
 # LLM4 PersonalChatbot
 
 ## Project
-The objective of this project is to interact with the Hugging Face model llama-2-7b-chat.Q2_K.gguf using Langchain within a Colab notebook. A web application user interface was developed for the chatbot using Streamlit. 
+The objective of this project is to interact with the Hugging Face model llama-2-7b-chat.Q2_K.gguf using Langchain within a Colab notebook. A web application user interface was developed for the chatbot using Streamlit. Local tunnel was used to expose the Streamlit app to the internet.
 
 ## Reference
 Create a Chatbot using Hugging Face and Streamlit, Kavit (zenwraight)
@@ -46,5 +46,23 @@ Create a Chatbot using Hugging Face and Streamlit, Kavit (zenwraight)
     - It will take some time to reply
 
 
-## Hugging Face Model Requests
+## Streamlit App
+
+<img src="https://github.com/Sarah269/psychic-eureka-AI/blob/main/LLM4_PersonalChatbot/LLM4_0.png" height=300>
+
+## Chatbot Questions
+
+### What is acne?
+
+<img src="https://github.com/Sarah269/psychic-eureka-AI/blob/main/LLM4_PersonalChatbot/LLM4_1.png" height=300>
+
+### How many oceans are there in the world?
+
+<img src="https://github.com/Sarah269/psychic-eureka-AI/blob/main/LLM4_PersonalChatbot/LLM4_2.png" height=300>
+
+### How many countries are there in Europe?
+
+<img src="https://github.com/Sarah269/psychic-eureka-AI/blob/main/LLM4_PersonalChatbot/LLM4_3.png" height=300>
+
+
 

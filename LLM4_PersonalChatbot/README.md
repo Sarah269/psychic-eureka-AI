@@ -1,8 +1,7 @@
 # LLM4 PersonalChatbot
 
-
 ## Project
-This project interacts with the Hugging Face model llama-2-7b-chat.Q2_K.gguf using Langchain within a Colab notebook. A web application chatbot interface was created using Streamlit.  Model is asked general questions.
+The objective of this project is to interact with the Hugging Face model llama-2-7b-chat.Q2_K.gguf using Langchain within a Colab notebook. A web application user interface was developed for the chatbot using Streamlit. 
 
 ## Reference
 Create a Chatbot using Hugging Face and Streamlit, Kavit (zenwraight)
@@ -22,10 +21,29 @@ Create a Chatbot using Hugging Face and Streamlit, Kavit (zenwraight)
 - jedi
 - Hugging Face model: llama-2-7b-chat.Q2_K.gguf
 - streamlit
-- localtunnel
+- localtunnel (exposes Streamlit app to the internet)
 
 ## Model
-- Model is downloaded to a file
+- Model is downloaded to a file using wget in the /content directory on colab
+
+## Tasks
+- Installed modules
+- Downloaded Hugging Face model
+- Code for Streamlit App
+    - import streamlit
+    - UI Page Configuration
+    - Create Conversation Button
+    - Define Response
+    - Prompt for question
+    - Display messages
+- Install local tunnel
+- Run Streamlit & localtunnel
+- Copy External URL IP provided by localtunnel
+- Click on URL provided for the app
+- Enter ther URL IP and click enter
+- Streamlit App is displayed (will take a little time)
+- Enter a question and press enter
+    - It will take some time to reply
 
 
 ## Hugging Face Model Requests

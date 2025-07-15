@@ -2,7 +2,7 @@
 
 
 ## Project Objective
-The objective of this project is to interact with a LLM using langchain in a conversational manner.  
+The objective of this project is to interact with a LLM using langchain within colb.  The interaction with the chatbot is in a conversational manner providing the user with an option to end the conversation with the chatbot.
 
 ## Reference
 Local-LLM-Chatbot-using-Ollama-and-Langchain, M-A-S1

@@ -31,11 +31,23 @@ The purpose of this project is to create a chatbot using Llamaindex with a funct
   - Activate virtual environment
       - myenv\Scripts\activate
 
-## Install required modules
+## Install required Python modules
 - Install modules
    -  python -m pip install -r requirements.txt
 
  ## Run Chatbot         
 - To run Streamlit app
     - streamlit run chatbot.py
+
+## Chatbot
+
+<img src="https://github.com/Sarah269/psychic-eureka-AI/blob/main/LLM6_Chatbot2/LLM6_1.png" height=300>
+
+<img src="https://github.com/Sarah269/psychic-eureka-AI/blob/main/LLM6_Chatbot2/LLM6_2.png" height=300>
+
+<img src="https://github.com/Sarah269/psychic-eureka-AI/blob/main/LLM6_Chatbot2/LLM6_3.png" height=300>
+
+<img src="https://github.com/Sarah269/psychic-eureka-AI/blob/main/LLM6_Chatbot2/LLM6_4.png" height=300>
+
+<img src="https://github.com/Sarah269/psychic-eureka-AI/blob/main/LLM6_Chatbot2/LLM6_5.png" height=300>
 

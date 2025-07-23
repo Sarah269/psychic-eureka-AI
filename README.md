@@ -1,1 +1,1 @@
-# psychic-eureka-AI
+# LLM and RAG projects

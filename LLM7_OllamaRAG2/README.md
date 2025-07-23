@@ -49,4 +49,13 @@ The objective of this project is to develop a Retrieval-Augmented Generation (RA
 - To run Streamlit app
     - streamlit run OllamaRAG2.py
 
-## RAG Chatbot
+## RAG Chatbot with Streamlit User Interface
+
+<img src="https://github.com/Sarah269/psychic-eureka-AI/blob/main/LLM7_OllamaRAG2/OllamaRAG2_1.png" height=400>
+
+<img src="https://github.com/Sarah269/psychic-eureka-AI/blob/main/LLM7_OllamaRAG2/OllamaRAG2_2.png" height=400>
+
+<img src="https://github.com/Sarah269/psychic-eureka-AI/blob/main/LLM7_OllamaRAG2/OllamaRAG2_3.png" height=400>
+
+<img src="https://github.com/Sarah269/psychic-eureka-AI/blob/main/LLM7_OllamaRAG2/OllamaRAG2_4.png" height=400>
+

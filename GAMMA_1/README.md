@@ -2,7 +2,7 @@ GAMMA_1:  Bank Customer Churn
 
 
 ## Project
-Create a presentation deck to inform stakeholders of the insights uncovered regarding customers who have left the bank.  The presentation deck was limited to 6 slides. 
+Create a presentation deck to inform stakeholders of the insights uncovered on customers who left the bank.  The presentation deck was limited to 6 slides. 
 
 ## Tools
 - Gamma (AI-powered presentation tool)
@@ -10,4 +10,9 @@ Create a presentation deck to inform stakeholders of the insights uncovered rega
 ## Soure of Insights
 
 
-## Slides
+## Link to Gamma Presentation
+https://gamma.app/docs/Understanding-Our-Customer-Churn-Crisis-5w2i3iby79e3rpf
+
+## Gamma Slides
+
+

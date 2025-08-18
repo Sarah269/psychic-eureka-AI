@@ -16,4 +16,12 @@ Create a presentation to report the results of a predictive model for patient no
 
 ## GAMMA Slides
 
+### Predicting-No-Shows-XGBoost-Model-Results-and-Analysis
+
+<img src="https://github.com/Sarah269/psychic-eureka-AI/blob/main/GAMMA_2/1_Predicting-No-Shows-XGBoost-Model-Results-and-Analysis.png" height=350>
+
+### Key-Findings-and-Action-Plan
+
+<img src="https://github.com/Sarah269/psychic-eureka-AI/blob/main/GAMMA_2/2_Key-Findings-and-Action-Plan.png" height=350>
+
 

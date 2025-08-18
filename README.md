@@ -1,1 +1,1 @@
-# LLM and RAG projects
+# LLM, RAG, AI Tools projects

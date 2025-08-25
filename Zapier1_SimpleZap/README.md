@@ -30,7 +30,18 @@ Create a basic zap with two steps.
 
 <img src="https://github.com/Sarah269/psychic-eureka-AI/blob/main/Zapier1_SimpleZap/Zap1_2.png" height=350>
 
-## ZAP
+## Zap Configuration
+
+### Trigger Configuration
+
+<img src="https://github.com/Sarah269/psychic-eureka-AI/blob/main/Zapier1_SimpleZap/Zap1_TriggerConfig.png" height=350>
+
+### Action Configuration
+
+<img src="" height=350>
+
+
+## Zap
 
 ### Step 1: Trigger. Complete Sample Form 1 and Click Submit
 

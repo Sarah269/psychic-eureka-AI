@@ -4,6 +4,8 @@
 ## Project
 Create a basic zap with two steps.
 
+<img src="https://github.com/Sarah269/psychic-eureka-AI/blob/main/Zapier1_SimpleZap/Zap1_1.png" height=350>
+
 ## Tools
 - Zapier
 - Google Forms

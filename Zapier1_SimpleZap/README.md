@@ -14,7 +14,6 @@ Create a basic zap with two steps.
 ## Tasks
 - Create a form using Google Forms
 - Publish the Google Form
-- 
 - Create a new Zap
     - Trigger: Google Forms
         - Google Form Sample Form 1
@@ -27,6 +26,24 @@ Create a basic zap with two steps.
 - Check Google Email
 
 
+## Google Sample Form 1
 
-  
+<img src="https://github.com/Sarah269/psychic-eureka-AI/blob/main/Zapier1_SimpleZap/Zap1_2.png" height=350>
+
+## ZAP
+
+### Step 1: Trigger. Complete Sample Form 1 and Click Submit
+
+<p float=left>
+<img src="https://github.com/Sarah269/psychic-eureka-AI/blob/main/Zapier1_SimpleZap/Zap1_3.png" width="32%">
+<img src="https://github.com/Sarah269/psychic-eureka-AI/blob/main/Zapier1_SimpleZap/Zap1_4.png" width="32%">
+</p>
+
+### Step 2: Action. Email notification for new form response
+
+<img src="https://github.com/Sarah269/psychic-eureka-AI/blob/main/Zapier1_SimpleZap/Zap1_5.png" height=350>
+
+
+
+
 

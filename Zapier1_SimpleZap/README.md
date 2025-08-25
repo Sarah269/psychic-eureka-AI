@@ -38,7 +38,7 @@ Create a basic zap with two steps.
 
 ### Action Configuration
 
-<img src="" height=350>
+<img src="https://github.com/Sarah269/psychic-eureka-AI/blob/main/Zapier1_SimpleZap/Zap1_ActionConfig.png" height=350>
 
 
 ## Zap
